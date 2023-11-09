@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Dell laptop",
+        "price":"50000",
+        "image":"https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-3420/media-gallery/peripherals_laptop_latitude_3420nt_gallery_3.psd?fmt=pjpg&pscan=auto&scl=1&wid=3635&hei=2548&qlt=100,1&resMode=sharp2&size=3635,2548&chrss=full&imwidth=5000",
+        "description":"This is a Dell Laptop"
+    },
+    {
+        "name":"Smart Watch",
+        "price":"1500",
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQEE3_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_IN?wid=2000&hei=2000&fmt=png-alpha&.v=1683224241054",
+        "description":"This is the smartwatch"
+    },
+    {
+        "name":"Nike Armor",
+        "price":"5500",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTiABYZA7YABr9un0dxRTcDT1FyMJacNI0A&usqp=CAU",
+        "description":"This is nike shoes"
+    },
+    {
+        "name":"T-Volf V6",
+        "price":"1900",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDAs0lVbY2H4liYvptnV8AL7cO4ZwA7qbcQ&usqp=CAU",
+        "description":"This is a gaming mouse"
+    },
+    {
+        "name":"Boat Headphones",
+        "price":"3500",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrupH48HvbAwcYozRz3EYdwQF46MX8Y1BwhhHpT_ISgfn_ocThqPVYnj2pZME23WXsS9w&usqp=CAU",
+        "description":"This is a boat headphone"
+    }
+]

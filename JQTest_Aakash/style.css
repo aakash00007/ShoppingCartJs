@@ -1,0 +1,34 @@
+/* some css modifications */
+
+.image{
+    height: 250px;
+}
+.modal-header{
+    border-bottom: none;
+}
+.modal-footer{
+    border-top: none;
+}
+.toast-header{
+    background-color: rgb(246, 246, 130);
+}
+.toast-body{
+    background-color: rgb(169, 238, 215);
+}
+input.error{
+    border: 2px solid red;
+}
+label.error{
+    color: red;
+}
+.quantity{
+    border: 2px solid lightgray;
+    width: 80px;
+    text-align: center;
+}
+.totalprice{
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    padding: 20px 10px;
+    width: 100%;
+}
